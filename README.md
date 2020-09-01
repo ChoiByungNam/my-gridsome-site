@@ -1,0 +1,2 @@
+# my-gridsome-site
+gridsome
